@@ -64,6 +64,8 @@
     "set mouse=r " 
     "set mouse=v "
     set noerrorbells " don't make noise
+    set paste " disables word wrapping and auto-indent and all similar things
+    "           that modify typed text.
     set whichwrap=b,s,h,l,<,>,~,[,] " everything wraps
     "             | | | | | | | | |
     "             | | | | | | | | +-- "]" Insert and Replace
