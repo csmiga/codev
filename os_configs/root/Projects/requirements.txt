@@ -56,7 +56,7 @@ pytest                   # makes it easy to write small tests, yet scales to sup
 #-------------------------------------------------------------------------------
 # DJANGO PROJECT LIBRARIES
 
-Django==3.2.9              # Django is a high-level Python Web framework that
+Django==3.2.13              # Django is a high-level Python Web framework that
                          # encourages rapid development and clean, pragmatic
                          # design.
 
